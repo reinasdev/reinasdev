@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Reinaldo](https://thereinas.dev) !
+### Hey 👋🏽, I'm [Reinaldo](https://thereinas.dev)!
 
 <a href="https://www.linkedin.com/in/reinaldoleitedev/">
   <img align="left" alt="Reinaldo LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -7,3 +7,15 @@
 <br />
 
 Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelancer 👨🏽‍💻, I enjoy games and podcasts.
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on [Brisanet Telecomunicações](https://github.com/Adarshreddyash/ronix-frontend);
+- 🤔 I’m currently learning GoLang, Docker and Postgres; 
+- 💬 Ask me about anything, I am happy to help;
+- 💰 I'm looking for devs for a side project
+- 📫 How to reach me: reinaldoleite.dev@gmail.com;
+
+**Languages and Tools:** 
+
+<code><img height="20" style="border-radius: 2px" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"></code>
