@@ -34,3 +34,6 @@ Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelan
 <code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png"></code>
 <code><img height="20" style="border-radius: 5px" src="https://i.imgur.com/K5TbzX0.png"></code>
 <code><img height="20" style="border-radius: 5px" src="https://i.imgur.com/IiCtpV1.png"></code>
+
+![Reinaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinaldoleitedev&show_icons=true&hide_border=true&theme=dracula)
+
