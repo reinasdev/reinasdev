@@ -13,7 +13,7 @@ Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelan
 - 👨🏽‍💻 I’m currently working on [Brisanet Telecomunicações](https://www.brisanet.com.br/);
 - 🤔 I’m currently learning GoLang, Docker and Postgres; 
 - 💬 Ask me about anything, I am happy to help;
-- 💰 I'm looking for devs for a side project
+- 💰 I'm looking for devs for a side project;
 - 📫 How to reach me: reinaldoleite.dev@gmail.com;
 
 **Languages and Tools:** 
