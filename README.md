@@ -1,10 +1,10 @@
 ### Hey 👋🏻, I'm [Reinaldo](https://thereinas.dev)!
 
 <a href="https://www.linkedin.com/in/reinaldoleitedev/">
-  <img align="left" alt="Reinaldo LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
+  <img alt="Reinaldo LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
 <a href="http://lattes.cnpq.br/3117113128952097">
-  <img align="left" alt="Reinaldo Lattes" width="22px" src="https://user-images.githubusercontent.com/58734819/134575298-76241cb6-6931-47ac-bf46-c4f9ce7ea194.png" />
+  <img alt="Reinaldo Lattes" width="22px" src="https://user-images.githubusercontent.com/58734819/134575298-76241cb6-6931-47ac-bf46-c4f9ce7ea194.png" />
 </a>
 
 <br />
