@@ -21,7 +21,7 @@ Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelan
 <code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"></code>
 <code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/815698345716912128/hwUcGZ41_400x400.jpg"></code>
 <code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/827354992377860096/sUe4dG_L_400x400.jpg"></code>
-<code><img height="20" style="border-radius: 5px" src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"></code>
+<code><img height="20" style="border-radius: 5px" src="https://www.sonarqube.org/features/multi-languages/index/c-color.svg"></code>
 
 
 
