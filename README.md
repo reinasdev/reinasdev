@@ -30,7 +30,7 @@ Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelan
 <code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg"></code>
 <code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"></code>
 <code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/938272746328543232/kxHkAenZ_400x400.jpg"></code>
-<code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1234528105819189248/b6F1hk_6_400x400.jpg"></code>
+<code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"></code>
 <code><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png"></code>
 <code><img height="20" style="border-radius: 5px" src="https://i.imgur.com/K5TbzX0.png"></code>
 <code><img height="20" style="border-radius: 5px" src="https://i.imgur.com/IiCtpV1.png"></code>
