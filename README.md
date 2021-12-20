@@ -12,7 +12,7 @@
 
 Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelancer 👨🏽‍💻, I enjoy games and podcasts.
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs**
 
 - 👨🏽‍💻 I’m currently working at [Brisanet Telecomunicações](https://www.brisanet.com.br/);
 - 🤔 I’m currently learning GoLang, Docker and Postgres; 
@@ -20,7 +20,7 @@ Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelan
 - 💰 I'm looking for devs for a side project;
 - 📫 How to reach me: reinaldoleite.dev@gmail.com;
 
-**Languages and Tools:** 
+**Languages and Tools** 
 
 <code><a href="https://golang.org/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"></a></code>
 <code><a href="https://www.php.net/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/815698345716912128/hwUcGZ41_400x400.jpg"></a></code>
