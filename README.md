@@ -31,7 +31,7 @@ Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelan
 <code><a href="https://www.mysql.com/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"></a></code>
 <code><a href="https://www.postgresql.org/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/938272746328543232/kxHkAenZ_400x400.jpg"></a></code>
 <code><a href="https://www.mongodb.com/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"></a></code>
-<code><a href="https://docker.com/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png"></a></code>
+<code><a href="https://docker.com/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1491922873275105290/cJX1HgMT_400x400.jpg"></a></code>
 <code><a href="https://kubernetes.io/"><img height="20" style="border-radius: 5px" src="https://i.imgur.com/K5TbzX0.png"></a></code>
 <code><a href="https://git-scm.com/"><img height="20" style="border-radius: 5px" src="https://i.imgur.com/IiCtpV1.png"></a></code>
 
