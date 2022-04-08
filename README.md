@@ -22,18 +22,22 @@ Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelan
 
 **Languages and Tools** 
 
-<code><a href="https://golang.org/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"></a></code>
-<code><a href="https://www.php.net/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/815698345716912128/hwUcGZ41_400x400.jpg"></a></code>
-<code><a href="https://www.javascript.com/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/827354992377860096/sUe4dG_L_400x400.jpg"></a></code>
-<code><a href="https://laravel.com/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg"></a></code>
-<code><a href="https://codeigniter.com/"><img height="20" style="border-radius: 5px" src="https://i.imgur.com/ZSjhaTw.png"></a></code>
-<code><a href="https://nodejs.org/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg"></a></code>
-<code><a href="https://www.mysql.com/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"></a></code>
-<code><a href="https://www.postgresql.org/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/938272746328543232/kxHkAenZ_400x400.jpg"></a></code>
-<code><a href="https://www.mongodb.com/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"></a></code>
-<code><a href="https://docker.com/"><img height="20" style="border-radius: 5px" src="https://pbs.twimg.com/profile_images/1491922873275105290/cJX1HgMT_400x400.jpg"></a></code>
-<code><a href="https://kubernetes.io/"><img height="20" style="border-radius: 5px" src="https://i.imgur.com/K5TbzX0.png"></a></code>
-<code><a href="https://git-scm.com/"><img height="20" style="border-radius: 5px" src="https://i.imgur.com/IiCtpV1.png"></a></code>
+<code><a href="https://golang.org/"><img height="20" style="border-radius: 50%" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"></a></code>
+<code><a href="https://www.php.net/"><img height="20" style="border-radius: 50%" src="https://pbs.twimg.com/profile_images/815698345716912128/hwUcGZ41_400x400.jpg"></a></code>
+<code><a href="https://www.javascript.com/"><img height="20" style="border-radius: 50%" src="https://pbs.twimg.com/profile_images/1509903834151325697/1Ked07gR_400x400.jpg"></a></code>
+<code><a href="https://laravel.com/"><img height="20" style="border-radius: 50%" src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg"></a></code>
+<code><a href="https://codeigniter.com/"><img height="20" style="border-radius: 50%"
+src="https://i.imgur.com/ZSjhaTw.png"></a></code>
+<code><a href="https://nodejs.org/"><img height="20" style="border-radius: 50%" src="https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg"></a></code>
+<code><a href="https://www.mysql.com/"><img height="20" style="border-radius: 50%" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"></a></code>
+<code><a href="https://www.postgresql.org/"><img height="20" style="border-radius: 50%" src="https://pbs.twimg.com/profile_images/938272746328543232/kxHkAenZ_400x400.jpg"></a></code>
+<code><a href="https://www.mongodb.com/"><img height="20" style="border-radius: 50%"
+src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"></a></code>
+<code><a href="https://docker.com/"><img height="20" style="border-radius: 50%" src="https://pbs.twimg.com/profile_images/1491922873275105290/cJX1HgMT_400x400.jpg"></a></code>
+<code><a href="https://kubernetes.io/"><img height="20" style="border-radius: 50%"
+src="https://i.imgur.com/K5TbzX0.png"></a></code>
+<code><a href="https://git-scm.com/"><img height="20" style="border-radius: 50%"
+src="https://i.imgur.com/IiCtpV1.png"></a></code>
 
 ![Reinaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinaldoleitedev&show_icons=true&hide_border=true&theme=dracula)
 
