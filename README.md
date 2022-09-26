@@ -18,7 +18,7 @@ Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelan
 - 🤔 I’m currently learning Go and PostgreSQL; 
 - 💬 Ask me about anything, I am happy to help;
 - 💰 I'm looking for devs for a side project;
-- 📫 How to reach me: reinaldoleite.dev@gmail.com;
+- 📫 How to reach me: reinasdev@gmail.com;
 
 **Languages and Tools** 
 
