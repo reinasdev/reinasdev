@@ -39,5 +39,5 @@ src="https://i.imgur.com/K5TbzX0.png"></a></code>
 <code><a href="https://git-scm.com/"><img height="20" style="border-radius: 50%"
 src="https://i.imgur.com/IiCtpV1.png"></a></code>
 
-![Reinaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinaldoleitedev&show_icons=true&hide_border=true&theme=dracula)
+![Reinaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinasdev&show_icons=true&hide_border=true&theme=dracula)
 
