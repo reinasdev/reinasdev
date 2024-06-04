@@ -14,11 +14,10 @@ Hi, I'm Reinaldo, a Software Engineer 🚀 from Brazil, currently, I'm a Freelan
 
 **Talking about Personal Stuffs**
 
-- 👨🏽‍💻 I’m currently working at [Brisanet Telecomunicações](https://www.brisanet.com.br/);
+- 👨🏽‍💻 I’m currently working at @Brisanet;
 - 🤔 My main stack is Go and PostgreSQL; 
 - 💬 Ask me about anything, I am happy to help;
-- 💰 I'm looking for devs for a side project;
-- 📫 How to reach me: reinasdev@gmail.com;
+- 💰 I'm looking for devs for a side project in @ThroneCode;
 
 **Languages and Tools** 
 
