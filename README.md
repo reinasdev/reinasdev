@@ -1,6 +1,6 @@
-### Hey 👋🏻, I'm [Reinaldo](https://thereinas.dev)!
+### Hey 👋🏻, I'm [Reinaldo](#)!
 
-<a href="https://www.linkedin.com/in/reinaldoleitedev/">
+<a href="https://www.linkedin.com/in/reinasdev/">
   <img alt="Reinaldo LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
 <a href="http://lattes.cnpq.br/3117113128952097">
@@ -10,12 +10,12 @@
 <br />
 <br />
 
-Hi, I'm Reinaldo, a Backend Developer 🚀 from Brazil, currently, I'm a Freelancer 👨🏽‍💻, I enjoy games and podcasts.
+Hi, I'm Reinaldo, a Software Engineer 🚀 from Brazil, currently, I'm a Freelancer 👨🏽‍💻, I enjoy games and podcasts.
 
 **Talking about Personal Stuffs**
 
 - 👨🏽‍💻 I’m currently working at [Brisanet Telecomunicações](https://www.brisanet.com.br/);
-- 🤔 I’m currently learning Go and PostgreSQL; 
+- 🤔 My main stack is Go and PostgreSQL; 
 - 💬 Ask me about anything, I am happy to help;
 - 💰 I'm looking for devs for a side project;
 - 📫 How to reach me: reinasdev@gmail.com;
