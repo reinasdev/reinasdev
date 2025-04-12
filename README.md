@@ -12,7 +12,6 @@ Hi, I'm Reinaldo, a Software Engineer 🚀 from Brazil, currently, I'm a Freelan
 
 - 👨🏽‍💻 I’m currently working at @Brisanet;
 - 💬 Ask me about anything, I am happy to help;
-- 💰 I'm looking for devs for a side project in @ThroneCode;
 
 **Main stack** 
 
