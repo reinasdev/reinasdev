@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Hi, I'm Reinaldo, a Software Engineer 🚀 from Brazil, currently, I'm a Freelancer 👨🏽‍💻, I enjoy games and podcasts.
+Hi, I'm Reinaldo, a Software Engineer 🚀 from Brazil, currently, I enjoy games and podcasts.
 
 **Talking about Personal Stuffs**
 
