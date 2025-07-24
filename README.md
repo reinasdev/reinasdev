@@ -1,19 +1,26 @@
 ### Hey 👋🏻, I'm [Reinaldo](#)! 
-<a href="https://www.linkedin.com/in/reinasdev/">
-  <img alt="Reinaldo LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
-</a>
-
-<br />
-<br />
-
-Hi, I'm Reinaldo, a Software Engineer 🚀 from Brazil, currently, I enjoy games and podcasts.
-
-**Talking about Personal Stuffs**
 
 - 👨🏽‍💻 I’m currently working at @Brisanet;
 - 💬 Ask me about anything, I am happy to help;
 
 **Main stack** 
 
-<code><a href="https://golang.org/"><img height="30" style="border-radius: 50%" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/05/go-lang-sticker-adesivo-300x300.jpg"></a></code>
-<code><a href="https://www.postgresql.org/"><img height="30" style="border-radius: 50%" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/postgreesql-logo-adesivo-sticker.png"></a></code>
+<code>![Main stack!](https://skillicons.dev/icons?i=go)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=postgres)</code>
+
+**Others skills**
+
+<code>![Main stack!](https://skillicons.dev/icons?i=js)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=php)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=python)</code>
+
+
+<code>![Main stack!](https://skillicons.dev/icons?i=docker)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=k8s)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=rabbitmq)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=kafka)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=aws)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=gcp)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=redis)</code>
+<code>![Main stack!](https://skillicons.dev/icons?i=mongodb)</code>
+
